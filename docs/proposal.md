@@ -14,10 +14,6 @@
   3. Generate personalized recommendations for users based on their historical interactions and preferences.
   4. Enhance user experience by providing relevant and tailored shoe recommendations.
   5. Drive sales and conversion by effectively showcasing a diverse range of shoe products to users.
-- **Expected Outcomes:**
-  1. Improved recommendation accuracy by leveraging textual features for content-based filtering.
-  2. Increased user engagement and satisfaction through personalized and relevant recommendations.
-  3. Boost in sales performance by delivering a diverse range of shoe products tailored to user preferences.
 
 ## 3. Data 
 

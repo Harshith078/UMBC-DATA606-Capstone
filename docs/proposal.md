@@ -68,8 +68,7 @@
     - heel_height: Height of the heel in centimeters
     - heel_type: Type of heel (e.g., flat, no heel)
     - shoe_width: Width of the shoe (e.g., medium, schmal)
-- **Target/Label:** Not specified
-- **Features/Predictors:** All columns except for the target/label column (if specified).
+- **Target/Label:** This could be the recommendation score or a binary variable indicating whether a user interacts with a recommended product.
 
 ## 4.Expected Outcomes
 
